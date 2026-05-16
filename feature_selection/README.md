@@ -1,7 +1,5 @@
 # Wine Classification Model
 
-## English
-
 This project predicts the wine class using a machine learning classification model.
 
 The model uses the Wine dataset from `scikit-learn`.  
